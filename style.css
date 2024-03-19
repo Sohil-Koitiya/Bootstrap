@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+image{
+    width: 100%;
+}
+.sectionImg{
+    width: 90%;
+}
+form{
+    width: 60%;
+}
+form>p{
+    font-size: 30px;
+    font-weight: 600;
+}
