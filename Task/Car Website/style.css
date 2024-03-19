@@ -16,3 +16,11 @@ form>p{
     font-size: 30px;
     font-weight: 600;
 }
+footer{
+    background-color: darkgrey;
+    color: black;
+}
+.footer{
+    height: 100px;
+    width: 500px;
+}
